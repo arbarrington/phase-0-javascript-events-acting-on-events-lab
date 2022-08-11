@@ -31,7 +31,8 @@ in Visual Studio Code.
 
 Go ahead and run the tests. You'll see that you need to create two functions to
 get the tests passing: `moveDodgerLeft()` and `moveDodgerRight()`. We'll write
-`moveDodgerLeft()` together, then you'll create `moveDodgerRight()` on your own.
+`moveDodgerLeft()` together, the
+n you'll create `moveDodgerRight()` on your own.
 
 ## Practice Moving Elements on the Page
 
